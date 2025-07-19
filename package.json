@@ -1,5 +1,6 @@
 {
   "name": "contador-de-clics",
+  "homepage": "https://raul12347.github.io/contador-clics",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
